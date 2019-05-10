@@ -1,6 +1,6 @@
-# Electron ShoppingList Desktop App
+## Sentiment Analyser
 
-This is a cross platform shoppinglist desktop application built on electron
+This project contains sentiment analysis models built using Python, with the Desktop app made using Electron.
 
 ### Version
 1.0.0
